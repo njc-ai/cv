@@ -36,7 +36,7 @@ Consulting growth for social impact businesses
 Social Casino gaming studio
   - Scaled monthly UA spend from $500k to $2MM: Facebook, Google, Rewarded Video Networks, DSPs
   - Decreased mean cost per purchase by ~40%. 
-  - **_Core wins::_** Value Opt & Min ROAS bidding (Facebook), Publisher level bidding, Network level LTV segmentation & portfolio optimization
+  - **_Core wins:_** Value Opt & Min ROAS bidding (Facebook), Publisher level bidding, Network level LTV segmentation & portfolio optimization
     <br><br>
 
 **Sr. Fixed Income Trader** @ Alphabit Trading _(Jun 2013 - Dec 2017)_ <br>
