@@ -82,6 +82,6 @@ Varsity Football Captain
  Dune, Sapiens, Godel Escher Bach: An Eternal Golden Braid, Wayfinders, Letters to a Young Poet.
 Meditations, Vagabonding, Collected Works of Carl Jung, Musashi, Tao Te Ching, Cat’s Cradle, Parable of the Sower
 
-## 🤸‍♀️ Interests:
+## 🤸‍♀️ Interests
 Machine Learning ٠ Meditation ٠ Drawing ٠ Camping ٠ Popular Science٠ Travel ٠ Literature ٠ Markets ٠ Athletics ٠ Games
 
