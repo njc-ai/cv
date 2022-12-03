@@ -46,7 +46,6 @@ Bond and commodities trading firm
 - **Mobile Apps Unlocked** Live from Las Vegas 🎰 _(June 7, 2022)_
 <br>[Faster than the Speed of Change](https://mauvegas.wces.net/class/case-study-presented-by-appsflyer/)<br>
 
-<br>
 
 ## 💬 Languages
 
