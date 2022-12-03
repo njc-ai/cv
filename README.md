@@ -5,7 +5,7 @@ _Full stack marketer 🏕_ <br>
 [Email](mailto:nicolascandler@gmail.com) / [Blog](https://themetagame.us) / [LinkedIn](https://www.linkedin.com/in/nicolascandler/) / [Hugging Face](https://huggingface.co/njc-ai) / 
 
 ## 🏔💻  Experience
-**Consultant** @ [The Meta Game](https://themetagame.us)) _(August 2022 - Current)_ <br>
+**Consultant** @ [The Meta Game](https://themetagame.us) _(August 2022 - Current)_ <br>
 Consulting growth for social impact businesses
  
 **Director of Growth Marketing** @ [Calm](https://calm.com/) _(Jan 2019 - July 2022)_ <br>
