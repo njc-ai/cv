@@ -12,7 +12,7 @@ as much as storytelling and championing the growth vision to the broader team.
 [Email](mailto:nicolascandler@gmail.com) / [Blog](https://blog.themetagame.us) / [LinkedIn](https://www.linkedin.com/in/nicolascandler/) / [Hugging Face](https://huggingface.co/njc-ai) 
 
 ## 🏔💻  Experience
-**Consultant** @ [The Meta Game]((https://blog.themetagame.us)) _(August 2022 - Current)_ <br>
+**Consultant** @ [The Meta Game](https://blog.themetagame.us) _(August 2022 - Current)_ <br>
 Consulting growth for social impact businesses
  <br><br>
 **Director of Growth Marketing** @ [Calm](https://calm.com/) _(Jan 2019 - July 2022)_ <br>
