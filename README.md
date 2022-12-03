@@ -1,11 +1,18 @@
 # Nick Candler
 
-_Full stack marketer 🏕_ <br>
+_Hi 👋 <br>
+I'm Nick, a full stack marketer 🏕_ <br>
+I enjoy rolling into my hands and getting into the weeds as much as I enjoy teaching others.
+I prefer the uncertainty of early stages,
+and like getting into the weeds of design and copy,
+or automating tasks in Python,
+as much as storytelling and championing the growth vision to the broader team.
 
-[Email](mailto:nicolascandler@gmail.com) / [Blog](https://themetagame.us) / [LinkedIn](https://www.linkedin.com/in/nicolascandler/) / [Hugging Face](https://huggingface.co/njc-ai) / 
+
+[Email](mailto:nicolascandler@gmail.com) / [Blog](https://blog.themetagame.us) / [LinkedIn](https://www.linkedin.com/in/nicolascandler/) / [Hugging Face](https://huggingface.co/njc-ai) / 
 
 ## 🏔💻  Experience
-**Consultant** @ [The Meta Game](https://themetagame.us) _(August 2022 - Current)_ <br>
+**Consultant** @ [The Meta Game]([https://themetagame.us](https://blog.themetagame.us)) _(August 2022 - Current)_ <br>
 Consulting growth for social impact businesses
  
 **Director of Growth Marketing** @ [Calm](https://calm.com/) _(Jan 2019 - July 2022)_ <br>
@@ -15,23 +22,23 @@ Apple App of the Year. #1 App for Health & Fitness.
   - Led creative direction and production for 5500 ads
   - Focused on Paid Social & Creative Strategy/Production, working cross functionally with Data-sci, Data-eng, Product, Content, Marketing teams
   - **_Focus areas:_** Creative Strategy, Paid Social, Monetization, Onboarding, Privacy, Attribution, Signals, Localization.
-<br><br>
+<br>
 
 **Advisor** @ [Defeat by Tweet](https://www.defeatbytweet.org/) _(Jul 2020 - Nov 2022)_ <br>
 [Why political campaigns are flooding Facebook with ad dollars](https://www.cnbc.com/2020/10/08/trump-biden-pacs-spend-big-on-facebook-as-election-nears.html).
   - Set and launched GTM strategy
   - Built creative and data infrastructure, set creative direction and processes
   - Backfilled team with designers and media buyers
-<br><br>
+<br>
 
 **User Acquisition Manager** @ [PlayQ](https://www.playq.com/) _(Oct 2019 - Sep 2020)_ <br>
 Social Casino gaming studio
   - Scaled monthly UA spend from $500k to $2MM: Facebook, Google, Rewarded Video Networks, DSPs
   - Decreased mean cost per purchase by ~40%. 
     - **_Core wins::_** Value Opt & Min ROAS bidding (Facebook), Publisher level bidding, Network level LTV segmentation & portfolio optimization
-    <br><br>
+    <br>
 
-**Sr. Fixed Income Trader** @ [Alphabit Trading] _(Jun 2013 - Dec 2017)_ <br>
+**Sr. Fixed Income Trader** @ Alphabit Trading _(Jun 2013 - Dec 2017)_ <br>
 Bond and commodities trading firm
   - Operated data-driven yield curve and calendar spread desk in electronic U.S. treasury cash and futures markets,
   - 40 months of consecutive profitability and 259% average year-over-year profit growth.
@@ -62,8 +69,8 @@ Varsity Football Captain
 <br>
 
 ## 📚 Attitude Shaping Works:
- *Dune, Sapiens, Godel Escher Bach: An Eternal Golden Braid, Wayfinders, Letters to a Young Poet.
-Meditations, Vagabonding, Collected Works of Carl Jung, Musashi, Tao Te Ching, Cat’s Cradle, Parable of the Sower*
+ Dune, Sapiens, Godel Escher Bach: An Eternal Golden Braid, Wayfinders, Letters to a Young Poet.
+Meditations, Vagabonding, Collected Works of Carl Jung, Musashi, Tao Te Ching, Cat’s Cradle, Parable of the Sower
 
 ## 🤸‍♀️ Interests:
 Machine Learning ٠ Meditation ٠ Drawing ٠ Camping ٠ Popular Science٠ Travel ٠ Literature ٠ Markets ٠ Athletics ٠ Games
