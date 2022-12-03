@@ -15,8 +15,8 @@ as much as storytelling and championing the growth vision to the broader team.
 Consulting growth for social impact businesses
  <br><br>
 **Director of Growth Marketing** @ [Calm](https://calm.com/) _(Jan 2019 - July 2022)_ <br>
-Apple App of the Year<br>
-#1 App in Health & Fitness.
+*Apple App of the Year*<br>
+#1 App in Health & Fitness
   - Deployed $100,000,000 in capital
   - Drove 1.2mm subscriptions
   - Led creative direction and production for 5500 ads
