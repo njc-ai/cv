@@ -1,7 +1,7 @@
 # Nick Candler
 
-##* Hi 👋* <br>
-##* I'm Nick, a full stack marketer 🤗* <br>
+## *Hi 👋* <br>
+## *I'm Nick, a full stack marketer 🤗* <br>
 I enjoy rolling up my sleeves and executing as much as I enjoy setting strategy & teaching others.<br><br>
 I prefer the uncertainty of early stages, <br>
 and like getting into the weeds of design and copy, <br>
