@@ -66,9 +66,19 @@ Bond and commodities trading firm
 Bachelor of Science (BS), Finance
 Varsity Football Captain
 *2008-2012*
-<br>
+<br><br>
 
-## 📚 Attitude Shaping Works:
+## 🧑‍💻 MOOCs
+**[Practical Deep Learning for Coders](https://course.fast.ai/)** 
+*Nov 2022-Present*
+
+**[SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial)**
+*January 2019*
+
+**[Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis)**
+*July 2017*<br><br>
+
+## 📚 Attitude Shaping Works
  Dune, Sapiens, Godel Escher Bach: An Eternal Golden Braid, Wayfinders, Letters to a Young Poet.
 Meditations, Vagabonding, Collected Works of Carl Jung, Musashi, Tao Te Ching, Cat’s Cradle, Parable of the Sower
 
