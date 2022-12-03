@@ -2,10 +2,10 @@
 
 _Hi 👋 <br>
 I'm Nick, a full stack marketer 🏕_ <br>
-I enjoy rolling up my sleeves and executing as much as I enjoy setting strategy & teaching others.
-I prefer the uncertainty of early stages,
-and like getting into the weeds of design and copy,
-or automating tasks in Python,
+I enjoy rolling up my sleeves and executing as much as I enjoy setting strategy & teaching others.<br>
+I prefer the uncertainty of early stages, <br>
+and like getting into the weeds of design and copy, <br>
+or automating tasks in Python, <br>
 as much as storytelling and championing the growth vision to the broader team.
 
 
@@ -35,7 +35,7 @@ Apple App of the Year. #1 App for Health & Fitness.
 Social Casino gaming studio
   - Scaled monthly UA spend from $500k to $2MM: Facebook, Google, Rewarded Video Networks, DSPs
   - Decreased mean cost per purchase by ~40%. 
-    - **_Core wins::_** Value Opt & Min ROAS bidding (Facebook), Publisher level bidding, Network level LTV segmentation & portfolio optimization
+  - **_Core wins::_** Value Opt & Min ROAS bidding (Facebook), Publisher level bidding, Network level LTV segmentation & portfolio optimization
     <br>
 
 **Sr. Fixed Income Trader** @ Alphabit Trading _(Jun 2013 - Dec 2017)_ <br>
