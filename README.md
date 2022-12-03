@@ -2,7 +2,7 @@
 
 _Hi 👋 <br>
 I'm Nick, a full stack marketer 🏕_ <br>
-I enjoy rolling into my hands and getting into the weeds as much as I enjoy teaching others.
+I enjoy rolling up my sleeves and executing as much as I enjoy setting strategy & teaching others.
 I prefer the uncertainty of early stages,
 and like getting into the weeds of design and copy,
 or automating tasks in Python,
