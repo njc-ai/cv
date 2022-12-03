@@ -32,7 +32,7 @@ Consulting growth for social impact businesses
   - Backfilled team with designers and media buyers
 <br><br>
 
-**User Acquisition Manager** @ [PlayQ](https://www.playq.com/) _(Oct 2019 - Sep 2020)_ <br>
+**User Acquisition Manager** @ [PlayQ](https://www.playq.com/) _(Feb 2018 - Oct 2018)_ <br>
 Social Casino gaming studio
   - Scaled monthly UA spend from $500k to $2MM: Facebook, Google, Rewarded Video Networks, DSPs
   - Decreased mean cost per purchase by ~40%. 
