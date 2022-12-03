@@ -9,7 +9,7 @@ or automating tasks in Python, <br>
 as much as storytelling and championing the growth vision to the broader team.
 
 
-[Email](mailto:nicolascandler@gmail.com) / [Blog](https://blog.themetagame.us) / [LinkedIn](https://www.linkedin.com/in/nicolascandler/) / [Hugging Face](https://huggingface.co/njc-ai) / 
+[Email](mailto:nicolascandler@gmail.com) / [Blog](https://blog.themetagame.us) / [LinkedIn](https://www.linkedin.com/in/nicolascandler/) / [Hugging Face](https://huggingface.co/njc-ai) 
 
 ## 🏔💻  Experience
 **Consultant** @ [The Meta Game]([https://themetagame.us](https://blog.themetagame.us)) _(August 2022 - Current)_ <br>
