@@ -64,8 +64,8 @@ Bond and commodities trading firm
 ## 🐻 Education
 
 **University of Northern Colorado**<br>
-Bachelor of Science (BS), Finance
-Varsity Football Captain
+Bachelor of Science (BS), Finance<br>
+Varsity Football Captain<br>
 *2008-2012*
 <br><br>
 
