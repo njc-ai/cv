@@ -26,6 +26,7 @@ Consulting growth for social impact businesses
 
 **Advisor** @ [Defeat by Tweet](https://www.defeatbytweet.org/) _(Jul 2020 - Nov 2022)_ <br>
 [Why political campaigns are flooding Facebook with ad dollars](https://www.cnbc.com/2020/10/08/trump-biden-pacs-spend-big-on-facebook-as-election-nears.html).
+  - Raised $7mm+ for community organizers in PA, GA, MI, WI, AZ, NV & CO
   - Set and launched GTM strategy
   - Built creative and data infrastructure, set creative direction and processes
   - Backfilled team with designers and media buyers
