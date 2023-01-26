@@ -85,4 +85,3 @@ Meditations, Vagabonding, Collected Works of Carl Jung, Musashi, Tao Te Ching, C
 
 ## 🤸‍♀️ Interests 
 Machine Learning ٠ Meditation ٠ Drawing ٠ Camping ٠ Popular Science٠ Travel ٠ Literature ٠ Markets ٠ Athletics ٠ Games
-
