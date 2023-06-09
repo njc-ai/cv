@@ -71,7 +71,7 @@ Varsity Football Captain<br>
 
 ## 🧑‍💻 MOOCs
 **[Practical Deep Learning for Coders](https://course.fast.ai/)** 
-*Nov 2022-Present*
+*Nov 2022-May 2023*
 
 **[SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial)**
 *January 2019*
